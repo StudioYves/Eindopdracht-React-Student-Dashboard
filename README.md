@@ -14,10 +14,6 @@ The WebApplication must display the following:
 
 - As a user, I want to be able to indicate by means of a checkbox whether I only want to show in the bar chart how nice the assignment was, only want to see how difficult the assignment was, or both.
 
-## Link to the project
-
-
-
 ## Run with 'npm start'
 Navigate to the application directory.
 With the command 'npm start' you are able to run the application out of the terminal.
