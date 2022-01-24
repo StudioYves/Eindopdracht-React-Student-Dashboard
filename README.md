@@ -17,9 +17,5 @@ The WebApplication must display the following:
 ## Link
 https://react-student-dashboard-yves.netlify.app
 
-## Run with 'npm start'
-Navigate to the application directory.
-With the command 'npm start' you are able to run the application out of the terminal.
-Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
 
 
